@@ -1,6 +1,6 @@
 package algorithms
 
-import "fmt"
+
 
 func Bubble_sort_modified(list []int) {
 	// Deres kode her
@@ -39,7 +39,6 @@ func Bubble_sort(list []int) {
 		}
 		
 	}
-	fmt.Println(list)
 }
 
 // Implementering av Quicksort algoritmen
