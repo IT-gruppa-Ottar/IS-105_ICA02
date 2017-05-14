@@ -29,3 +29,14 @@ Del 1 (main.go):
 Del 2(Algorithms):
 1. Lokaliser filen "sorting_test.go" i mappen Algorithms.
 2. Skriv i kommandovinduet "go test-bench=.". Dette vil kjøre benchmarktesten vår.
+
+# Oppgave 5
+Del 1 (lokalt):
+1. Lokaliser filen "main_boring_goroutine.go" i mappen oppgave 5. 
+2. I kommandovinduet, skriv "go run main_boring_goroutine.go". Dette vil kjøre filen som vil generere meldinger. 
+3. For å se prosessorinformasjonen, åpne et annet terminalvindu og bruk kommandoene "ps", "top" eller andre. 
+4. Etter kommando er skrevet, lokaliser prosessen for å se diverse prosessinformasjon. 
+5. For å stanse prosessen, gå til kommandovinduet du startet prosessen i og trykk knappene "Ctrl + c" samtidig. 
+
+del 2 (server): 
+Legg filene inn i serveren og repeter punktene ovenfor. 
