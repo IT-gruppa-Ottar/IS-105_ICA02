@@ -10,3 +10,22 @@ For å sjekke hvor mange prosesser som kjører på vår datamaskin trykker vi p�
 5. For å gjøre hello.go om til en fil som er kjørbar i Windows bruker man kommdandoen "GOOS=windows GOARCH=386 go build -o hello.exe hello.go"
 6. For å laste ned filen logger vi inn på serveren via et program som heter WinSCP. Ved bruk av dette programmet kan vi enkelt laste ned filen hello.exe ved å dra filen til vårt skrivebord eller ønsket destinasjon.
 7. for å kjøre filen i windows åpner vi cmd og lokaliserer filen hello.exe, og kjører den ved å skrive "hello.exe".
+
+# Oppgave 3
+Del 1 (main_sum.go):
+1. For å kjøre programmet må vi lokalisere main_sum.go.
+2. Deretter skriver vi følgende i kommandovinduet "go run main_sum.go arg1 arg2". Argumentene som fylles inn må være integer (float64), som tillater tall opp til 1.7976931348623157e+308. 
+3. Dette gir oss summen av de to argumentene. 
+
+Del 2 (sum_test.go):
+1. Lokaliser sum_test.go
+2. For å kjøre testen skriver du "go test" i kommandovinduet. Dette returnerer verdier som overløper de forskjellige typene. 
+
+# Oppgave 4
+Del 1 (main.go):
+1. Lokaliser main.go i mappen "Oppgave 4".
+2. for å kjøre filen, skriv følgende i kommandovinduet "go run main.go". Dette vil sortere en hardkodet tallrekke og printe ut den predefinerte tallrekken og den sorterte tallrekken. 
+
+Del 2(Algorithms):
+1. Lokaliser filen "sorting_test.go" i mappen Algorithms.
+2. Skriv i kommandovinduet "go test-bench=.". Dette vil kjøre benchmarktesten vår.
