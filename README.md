@@ -23,7 +23,7 @@ Del 2 (sum_test.go):
 
 # Oppgave 4
 Del 1 (main.go):
-1. Lokaliser main.go i mappen "Oppgave 4".
+1. Lokaliser main.go i mappen "Oppgave_4".
 2. for å kjøre filen, skriv følgende i kommandovinduet "go run main.go". Dette vil sortere en hardkodet tallrekke og printe ut den predefinerte tallrekken og den sorterte tallrekken. 
 
 Del 2(Algorithms):
@@ -32,7 +32,7 @@ Del 2(Algorithms):
 
 # Oppgave 5
 Del 1 (lokalt):
-1. Lokaliser filen "main_boring_goroutine.go" i mappen oppgave 5. 
+1. Lokaliser filen "main_boring_goroutine.go" i mappen oppgave_5. 
 2. I kommandovinduet, skriv "go run main_boring_goroutine.go". Dette vil kjøre filen som vil generere meldinger. 
 3. For å se prosessorinformasjonen, åpne et annet terminalvindu og bruk kommandoene "ps", "top" eller andre. 
 4. Etter kommando er skrevet, lokaliser prosessen for å se diverse prosessinformasjon. 
