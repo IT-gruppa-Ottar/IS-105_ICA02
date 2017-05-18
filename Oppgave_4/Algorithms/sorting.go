@@ -1,7 +1,5 @@
 package algorithms
 
-
-
 func Bubble_sort_modified(list []int) {
 	// Deres kode her
 	n := len(list)
