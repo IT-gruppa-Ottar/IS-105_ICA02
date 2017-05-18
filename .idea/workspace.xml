@@ -1,17 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e5bd6a03-d950-40e4-a684-4272f134e74e" name="Default" comment="Fikset mappenavn">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/IS-105_ICA02.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="" />
+    <list default="true" id="e5bd6a03-d950-40e4-a684-4272f134e74e" name="Default" comment="">
       <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Oppgave_3/main_sum.go" afterPath="$PROJECT_DIR$/Oppgave_3/main_sum.go" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Oppgave_4/Algorithms/sorting.go" afterPath="$PROJECT_DIR$/Oppgave_4/Algorithms/sorting.go" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Oppgave_3/sum.go" afterPath="$PROJECT_DIR$/Oppgave_3/sum/sum.go" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Oppgave_3/sum_test.go" afterPath="$PROJECT_DIR$/Oppgave_3/sum/sum_test.go" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
